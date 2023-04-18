@@ -1,4 +1,4 @@
-### Desenvolvedor Unity e Front-end web - JS, React, Next, Tailwind, C#
+### Desenvolvedor Unity e Front-end web
 
 
 <div style="display: inline_block"><br>
