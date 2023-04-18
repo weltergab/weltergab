@@ -1,4 +1,5 @@
-### Olá eu sou o Gabriel Welter, estudante de Sistemas de Informação. 👋
+### Desenvolvedor Unity e Front-end web - JS, React, Next, Tailwind, C#
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="gab_unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
