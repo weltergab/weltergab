@@ -5,8 +5,8 @@
 ⠀  
 <p>Atualmente estudo e faço projetos na área de Front-end com TypeScript, React, Next, Tailwindcss.
 Tenho experiência em desenvolvimento Unity com C#.</p>
-  
-💻 https://gabrielwelter.vercel.app/
+
+<a href="https://gabrielwelter.vercel.app/" target="_blank">💻 Portifolio</a>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
