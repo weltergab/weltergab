@@ -1,4 +1,3 @@
-☁️ Cloud Data Engineering Intern - CompassUol  
 🎮 Dev Unity & ⚛️ Front-end React | 🎨 UX/UI Design  
 ⠀  
 🎓 Bacharelado em Sistemas - UFSM  
